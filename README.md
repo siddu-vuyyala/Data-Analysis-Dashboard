@@ -31,7 +31,24 @@ The process involved:
 - Load/refresh data if required
 - Interact with slicers to explore insights
 
-  ## Dashboard
-  <img width="1198" height="669" alt="Dashboard1" src="https://github.com/user-attachments/assets/c8ecd4b3-c148-458a-ab3e-faf3f2420b79" />
+## Dashboard
+<img width="1198" height="669" alt="Dashboard1" src="https://github.com/user-attachments/assets/c8ecd4b3-c148-458a-ab3e-faf3f2420b79" />
+
+## Project Insight
+
+- Total Sales Amount, Total Profit, Shipment Count & Profit % KPIs
+- Month-over-month comparison: Current Year vs Previous Year
+- Shipment Count Distribution visualization
+- Top 5 Products & Top 5 Sales Persons with profit contribution
+- Sales by Geography pie analysis
+- Interactive slicers for dynamic date range selection
+
+## Final Conclusion:
+
+This Power BI project helps analyze sales performance using interactive dashboards. It shows important metrics such as total sales, profit, shipment count, and top products. The visuals make it easy to compare trends by month, region, and salesperson. It helps identify what is performing well and where improvement is needed. Overall, this dashboard is useful for making quick and informed business decisions.
+
+  
+
+  
 
 
