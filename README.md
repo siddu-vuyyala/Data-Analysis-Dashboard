@@ -24,3 +24,10 @@ The process involved:
 - What is the Total Profit achieved?
 - What is the Profit %?
 
+## Process
+
+- Download the .pbix file from the repository
+- Open using Power BI Desktop
+- Load/refresh data if required
+- Interact with slicers to explore insights
+
