@@ -31,3 +31,7 @@ The process involved:
 - Load/refresh data if required
 - Interact with slicers to explore insights
 
+  ## Dashboard
+  <img width="1198" height="669" alt="Dashboard1" src="https://github.com/user-attachments/assets/c8ecd4b3-c148-458a-ab3e-faf3f2420b79" />
+
+
