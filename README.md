@@ -6,9 +6,9 @@ It is designed to help business teams track KPIs, identify high-performing produ
 
 The objective of this project is to analyze overall sales performance and deliver business insights through interactive visual reports.
 The process involved:
-🔹 Data Importing from Excel
-🔹 Data Cleaning & Transformation using Power Query
-🔹 Data Modeling with appropriate relationships
-🔹 DAX Measures for KPI calculations
-🔹 Dashboard & Report Building with interactive visuals
+- Data Importing from Excel
+- Data Cleaning & Transformation using Power Query
+- Data Modeling with appropriate relationships
+- DAX Measures for KPI calculations
+- Dashboard & Report Building with interactive visuals
 
